@@ -1,0 +1,10 @@
+pil
+cv2
+deepface==0.0.93
+dlib
+json
+numpy==1.26.4
+os
+pkg_resources
+re
+streamlit==1.42.2
